@@ -1,0 +1,21 @@
+Simulation Results
+
+Input A = 0101 (5)
+Input B = 0011 (3)
+
+Operation Results
+
+000 -> Addition      = 1000 (8)
+001 -> Subtraction   = 0010 (2)
+010 -> AND           = 0001 (1)
+011 -> OR            = 0111 (7)
+100 -> XOR           = 0110 (6)
+101 -> NOT           = 1010
+110 -> Left Shift    = 1010
+111 -> Right Shift   = 0010
+
+Simulation Status
+
+PASS
+
+All operations were verified successfully using Vivado Behavioral Simulation.
